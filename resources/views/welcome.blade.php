@@ -21,10 +21,10 @@
                 </button>
                 <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
                     <div class="navbar-nav">
-                        <a class="nav-link active" aria-current="page" href="#">Home</a>
-                        <a class="nav-link" href="#">Company</a>
-                        <a class="nav-link" href="#">About</a>
-                        <a class="nav-link" href="#">Contact</a>
+                        <a class="nav-link active" aria-current="page" href="#">HOME</a>
+                        <a class="nav-link" href="#">COMPANY</a>
+                        <a class="nav-link" href="#">ABOUT</a>
+                        <a class="nav-link" href="#">CONTACT</a>
                     </div>
                 </div>
             </div>
